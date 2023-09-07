@@ -1,5 +1,6 @@
 # Baltazar
 Baltazar is a digital menu and ordering system designed to streamline the dining experience for both customers and restaurant staff. With Baltazar, customers can easily browse the menu, place orders, and enjoy a seamless dining experience.
+(This project is at the start of its journey, so be patient)
 
 ### Getting Started
 Baltazar simplifies the process of managing orders and menus for restaurants. To get started with Baltazar, follow these steps:

@@ -1,0 +1,12 @@
+/Users/mehdi/Projects/dotnet/Baltazar/Baltazar.Infra/obj/Debug/net7.0/Baltazar.Infra.csproj.AssemblyReference.cache
+/Users/mehdi/Projects/dotnet/Baltazar/Baltazar.Infra/obj/Debug/net7.0/Baltazar.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehdi/Projects/dotnet/Baltazar/Baltazar.Infra/obj/Debug/net7.0/Baltazar.Infra.AssemblyInfoInputs.cache
+/Users/mehdi/Projects/dotnet/Baltazar/Baltazar.Infra/obj/Debug/net7.0/Baltazar.Infra.AssemblyInfo.cs
+/Users/mehdi/Projects/dotnet/Baltazar/Baltazar.Infra/obj/Debug/net7.0/Baltazar.Infra.csproj.CoreCompileInputs.cache
+/Users/mehdi/Projects/dotnet/Baltazar/Baltazar.Infra/bin/Debug/net7.0/Baltazar.Infra.deps.json
+/Users/mehdi/Projects/dotnet/Baltazar/Baltazar.Infra/bin/Debug/net7.0/Baltazar.Infra.dll
+/Users/mehdi/Projects/dotnet/Baltazar/Baltazar.Infra/bin/Debug/net7.0/Baltazar.Infra.pdb
+/Users/mehdi/Projects/dotnet/Baltazar/Baltazar.Infra/obj/Debug/net7.0/Baltazar.Infra.dll
+/Users/mehdi/Projects/dotnet/Baltazar/Baltazar.Infra/obj/Debug/net7.0/refint/Baltazar.Infra.dll
+/Users/mehdi/Projects/dotnet/Baltazar/Baltazar.Infra/obj/Debug/net7.0/Baltazar.Infra.pdb
+/Users/mehdi/Projects/dotnet/Baltazar/Baltazar.Infra/obj/Debug/net7.0/ref/Baltazar.Infra.dll

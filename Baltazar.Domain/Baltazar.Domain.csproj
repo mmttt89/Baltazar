@@ -6,4 +6,16 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Services\" />
+    <None Remove="Contracts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\" />
+    <Folder Include="Contracts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Baltazar.Entity\Baltazar.Entity.csproj" />
+    <ProjectReference Include="..\Baltazar.Data\Baltazar.Data.csproj" />
+  </ItemGroup>
 </Project>

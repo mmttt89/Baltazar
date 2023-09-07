@@ -25,5 +25,21 @@
     <ProjectReference Include="..\Baltazar.Data\Baltazar.Data.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>
+    <ProjectReference Include="..\Baltazar.Domain\Baltazar.Domain.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\Baltazar.Infra\Baltazar.Infra.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Models\" />
+    <None Remove="Models\Auth\" />
+    <None Remove="Models\Auth\DTOs\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="Models\Auth\" />
+    <Folder Include="Models\Auth\DTOs\" />
   </ItemGroup>
 </Project>

@@ -19,4 +19,12 @@
   <ItemGroup>
     <ProjectReference Include="..\Baltazar.Entity\Baltazar.Entity.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <None Remove="Repositories\" />
+    <None Remove="Contracts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Repositories\" />
+    <Folder Include="Contracts\" />
+  </ItemGroup>
 </Project>
